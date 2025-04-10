@@ -14,7 +14,7 @@ import time
 import json
 import os
 
-TOKEN = "MTM1OTkxOTg1NzcyNTg3MDE1MQ.GFoFUX.di2nPE9w-AM017R_RYhAlAkxnw5iUju4DaPMdc"
+TOKEN = "REPLACE_THIS_WITH_YOUR_TOKEN"
 DATA_FILE = "data.json"
 
 intents = discord.Intents.default()
